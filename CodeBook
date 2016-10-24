@@ -1,4 +1,4 @@
-Code Book
+Code Book for Getting and Cleaning Data Project
 The code book summarizes the data fields contained in tidy.txt
 Identifiers
 •	subject - The ID of the test subject
